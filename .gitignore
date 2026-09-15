@@ -1,0 +1,9 @@
+node_modules/
+pb_public/
+.claude/settings.local.json
+pb_data/
+.DS_Store
+Icon?
+*.log
+.env
+.env.*

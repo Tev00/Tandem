@@ -1,0 +1,7 @@
+{
+  "name": "enlice-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": { "seed": "node seed.mjs" },
+  "dependencies": { "pocketbase": "^0.26.0" }
+}
